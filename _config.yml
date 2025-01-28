@@ -21,9 +21,9 @@
 title: Darren Browne
 email: darrenbrowne.co@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  This is my Github Pages site.
+  This is my Personal site.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://darren-br.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  darren-br
 
 # Build settings
